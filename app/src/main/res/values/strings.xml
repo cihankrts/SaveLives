@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HAYAT VER</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="Bloods">
+        <item>0 rh + </item>
+        <item>0 rh - </item>
+        <item>A rh + </item>
+        <item>A rh - </item>
+        <item>B rh + </item>
+        <item>B rh - </item>
+        <item>AB rh + </item>
+        <item>AB rh - </item>
+    </string-array>
+
+    <string-array name="Gender">
+        <item> Kadın </item>
+        <item> Erkek </item>
+    </string-array>
+
+    <string-array name="Onay">
+        <item> Evet </item>
+        <item> Hayır </item>
+    </string-array>
+
+
+</resources>
